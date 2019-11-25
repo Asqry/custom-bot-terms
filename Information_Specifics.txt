@@ -1,0 +1,26 @@
+Client Name: 
+
+Server Name: 
+
+Service Needed: 
+
+Payment: 
+ 
++====Specific Information====+
+
+Prefix: 
+
+Bot Name: 
+
++=====Custom Features=====+
+---------------------------------------------------------------------------------
+-
+-
+-
+---------------------------------------------------------------------------------
+
+Application ID: 
+
+Bot Token: 
+
+Application Link: https://discordapp.com/developers/applications/CLIENTID/
