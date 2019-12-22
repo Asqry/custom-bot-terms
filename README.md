@@ -62,13 +62,13 @@ seekeroftacos - Discord Bot/Web Developer
 It is very rare to find a Developer for little to no money, so here are my payment guidelines
 
 » Discord Bots
-	- One bot with some custom features: $0
-	- One bot with a ticket system: $0
-	- One bot with a ticket system, custom features, and moderation commands: $0 
-		- If the amount of custom features exceeds 5, each extra feature will cost you one month of Nitro Classic each
-	- One bot with an advanced ticket system, featuring my "Admin Ticket" system, custom features, and moderation commands
-	- One bot with a chat filter, custom features, moderation commands, logging, and link/invite detection: 1-6 Months of Discord Nitro Classic (Depending on the amount of custom features)
-	- Everything above, plus custom features for server donators/patrons: 6-12 Months of Discord Nitro Classic (Depending on the amount of donators/patrons)
+	# One bot with some custom features: $0
+	# One bot with a ticket system: $0
+	# One bot with a ticket system, custom features, and moderation commands: $0 
+		# If the amount of custom features exceeds 5, each extra feature will cost you one month of Nitro Classic each
+	# One bot with an advanced ticket system, featuring my "Admin Ticket" system, custom features, and moderation commands
+	# One bot with a chat filter, custom features, moderation commands, logging, and link/invite detection: 1-6 Months of Discord Nitro Classic (Depending on the amount of custom features)
+	# Everything above, plus custom features for server donators/patrons: 6-12 Months of Discord Nitro Classic (Depending on the amount of donators/patrons)
 
 - Final payment for the last 2 options is decided by the developer
 
