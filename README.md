@@ -1,6 +1,6 @@
 # custom-bot-terms
 
-seekeroftacos - Discord Bot/Web Developer
+Asqry - Discord Bot Developer/Minecraft Server Management
 
 +==================Experience==================+
 
