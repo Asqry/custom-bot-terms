@@ -15,13 +15,13 @@ seekeroftacos - Discord Bot/Web Developer
 
 » https://www.exilebot.tk 
 	
-	- A website for my most recent bot, Exile
+	- A website for my most recent bot, Exile. (Recently Shut Down)
 
 » Tickets Bot
-	- A Discord bot that can create tickets for any reason, and has a chat history feature for admins to view the entirety of the ticket, even after it has been closed
+	- A Discord bot that can create tickets for any reason, and has a chat history feature for admins to view the entirety of the ticket, even after it has been closed (Not-Running)
 
 » Chrominix (https://www.chrominix.xyz)
-	- A software company in which I am a Main Developer/Server Manager
+	- A software company in which I am a Main Developer/Server Manager (Recently Broken Up)
 
 » Astral Network
 	- An OP Prison/Skyblock Minecraft Server (Discord Developer)
@@ -47,14 +47,14 @@ seekeroftacos - Discord Bot/Web Developer
 
 +==================Contact==================+
 
-» Email: theoneandonlyseek@gmail.com
+» Email: asqrybot@gmail.com
 	- When writing your email, please have the subject as "Dev Job - Whatever you wanted"
 	- Please include your Discord name, your email address, and what you would like out of the options in the "Payment" section of this bio
 
-» Discord: Taco#2942
+» Discord: Asqry#6420
 	- Please only DM me with serious requests
 
-» GitHub: https://www.github.com/seekeroftacos
+» GitHub: https://www.github.com/seekeroftacos (Changing to "Asqry" soon)
 
 
 +==================Payment==================+
@@ -99,3 +99,6 @@ It is very rare to find a Developer for little to no money, so here are my payme
 	> Downgrading to the plan below
 	> Removing a few features, knocking down the price
 	> Downgrading to the lower plan and giving credit in the actual server to the developer in the form of a "Bot Developer" role hoisted at least above the default member role
+	> You do something for one of my multiple servers that I own, in the form of a staff role, management, graphic design, etc
+	
+	*I reserve the right to stop service at any time*
